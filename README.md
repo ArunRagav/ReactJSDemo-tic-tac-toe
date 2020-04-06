@@ -1,4 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+##Building blocks of project:
+package manager, such as Yarn or npm.
+A bundler, such as webpack or Parcel.
+A compiler such as Babel
+
+Next.js
+Next.js is a popular and lightweight framework for static and server‑rendered applications built with React. It includes styling and routing solutions out of the box, and assumes that you’re using Node.js as the server environment.
+https://nextjs.org/learn/
+
+## Create react project:
+npx on the first line is not a typo — it’s a package runner tool that comes with npm 5.2+.
+npx create-react-app myapp
 
 ## Available Scripts
 
@@ -37,7 +49,36 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Reference Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
