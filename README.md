@@ -1,3 +1,7 @@
+##React
+JavaScript library for building user interfaces
+
+JSX --> XML-LIKE SYNTAX EXTENSION TO ECMASCRIPT
 
 ## Building blocks of project:
 package manager, such as Yarn or npm.
