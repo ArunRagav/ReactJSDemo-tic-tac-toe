@@ -1,7 +1,9 @@
 
-##Building blocks of project:
+## Building blocks of project:
 package manager, such as Yarn or npm.
+
 A bundler, such as webpack or Parcel.
+
 A compiler such as Babel
 
 Next.js
@@ -9,8 +11,8 @@ Next.js is a popular and lightweight framework for static and server‑rendered 
 https://nextjs.org/learn/
 
 ## Create react project:
-npx on the first line is not a typo — it’s a package runner tool that comes with npm 5.2+.
-npx create-react-app myapp
+"npx" on the first line is not a typo — it’s a package runner tool that comes with npm 5.2+.
+### npx create-react-app myapp
 
 ## Available Scripts
 
